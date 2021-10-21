@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there 👋  My name is SuYeon Kang.
 
+- 🔭 I'm currently making games using Unity Engine.
+- 🎮 I'm looking for a job as a game designer.
+- 🌱 I’m currently learning Computer Science at Seoul Women's University.
 <!--
 **victoryAshe/victoryAshe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
