@@ -1,4 +1,4 @@
-### Hi there 👋  My name is SuYeon Kang.
+### Hi there 👋
 
 - 🔭 I'm currently making games using Unity Engine.
 - 🎮 I'm looking for a job as a game designer.
