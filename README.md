@@ -33,5 +33,3 @@ Here are some ideas to get you started:
 -->
 
 
-![Yeon's github stats](https://github-readme-stats.vercel.app/api?username=victoryAshe&show_icons=true)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victoryAshe&layout=compact)
-
