@@ -3,7 +3,7 @@
 
 - 🔭 I'm currently making games using Unity Engine and UE5.
 - 🎮 I'm looking for a job as a game client developer.
-- 📫 How to reach me: incluseashe@gmail.com
+- 📫 How to reach me: includesuyeon@gmail.com
 
 ### I have been making...
  - FPS Game (Unity 3D)
